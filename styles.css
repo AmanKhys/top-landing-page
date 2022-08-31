@@ -214,4 +214,15 @@ p.author{
 
 }
 
+/* FOOTER SECTION */
+
+.footer{
+    background:#1f2937;
+}
+.footer div{
+    margin:auto;
+    color:#e7e5eb;
+    text-align:center;
+
+}
 
